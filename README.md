@@ -10,9 +10,9 @@
 
 ## 🧪 Projects
 
-- 🔌 MazeWar Multiplayer Server — Real-time multiplayer game server in C with sockets & threading
-- 🖨️ Presi Printer Spooler — Production-style UNIX print job system with signals and pipelines
-- 🤖 Resistor Classifier — CNN-based computer vision model using PyTorch and OpenCV
+- 🔌 [MazeWar Multiplayer Server](https://github.com/kenny082/mazewar-multiplayer) — Real-time multiplayer game server in C with sockets & threading  
+- 🖨️ [Presi Printer Spooler](https://github.com/kenny082/presi-printer-spooler) — Production-style UNIX print job system with signals and pipelines  
+- 🤖 [Resistor Classifier](https://github.com/kenny082/Classify-Resistor) — CNN-based computer vision model using PyTorch and OpenCV  
 
 ---
 
