@@ -2,7 +2,7 @@
 
 🎓 I'm an undergraduate Computer Science major at Stony Brook University, passionate about systems programming, backend development, and software engineering.
 
-- 🔧 I enjoy working with **C, Java, Python**, and building systems with **POSIX**, **sockets**, and **UNIX processes**
+- 🔧 I enjoy working with **C and Python**, and building systems with **POSIX**, **sockets**, and **UNIX processes**
 - 🧠 Interested in **operating systems**, **distributed systems**, and **concurrency**
 - 📚 Currently learning: low-level systems design and compiler internals
 
