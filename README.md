@@ -11,7 +11,6 @@
 ## 🧪 Projects
 
 - 🔌 [MazeWar Multiplayer Server](https://github.com/kenny082/mazewar-multiplayer) — Real-time multiplayer game server in C with sockets & threading  
-- 🖨️ [Presi Printer Spooler](https://github.com/kenny082/presi-printer-spooler) — Production-style UNIX print job system with signals and pipelines  
 - 🤖 [Resistor Classifier](https://github.com/kenny082/Classify-Resistor) — CNN-based computer vision model using PyTorch and OpenCV  
 
 ---
@@ -33,5 +32,3 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
