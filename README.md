@@ -8,7 +8,7 @@
 
 - 🔌 [MazeWar Multiplayer Server](https://github.com/kenny082/mazewar-multiplayer) — Real-time multiplayer game server in C with sockets & threading  
 - 🤖 [Resistor Classifier](https://github.com/kenny082/Classify-Resistor) — CNN-based computer vision model using PyTorch and OpenCV  
-
+- 🖼️ [Smart Image Organizer](https://github.com/kenny082/Smart-Image-Organizer) - Python/FastAPI app for batch image processing, CLIP-based tagging, and secure API access
 ---
 
 ## 📫 Contact Me
