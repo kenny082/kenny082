@@ -1,24 +1,54 @@
-# 👋 Hey there, I'm Kenny!
+# Hey, I'm Kenny Wong
 
-🎓 I'm an undergraduate Computer Science major at Stony Brook University, passionate about systems programming, backend development, and software engineering.
+I'm a Computer Science and Applied Mathematics & Statistics student at Stony Brook University interested in systems programming, backend development, AI/ML, and software engineering.
+
+Currently:
+- Incoming Software Engineer Intern at IBM
+- Former IT Developer Intern at NYC Department of Health and Mental Hygiene
+- Former Systems Programming & Linear Algebra Teaching Assistant at Stony Brook University
 
 ---
 
-## 🧪 Projects
+## Projects
 
-- 🔌 [MazeWar Multiplayer Server](https://github.com/kenny082/mazewar-multiplayer) — Real-time multiplayer game server in C with sockets & threading  
-- 🤖 [Resistor Classifier](https://github.com/kenny082/Classify-Resistor) — CNN-based computer vision model using PyTorch and OpenCV  
-- 🖼️ [Smart Image Organizer](https://github.com/kenny082/Smart-Image-Organizer) - Python/FastAPI app for batch image processing, CLIP-based tagging, and secure API access
+### MazeWar Multiplayer Server
+Real-time multiplayer game server written in C using sockets, threading, mutexes, semaphores, and signals.
+
+- Supported 26+ concurrent players
+- Designed a low-latency binary protocol for real-time gameplay
+- Built thread-safe synchronization for shared game state
+
+🔗 https://github.com/kenny082/mazewar-multiplayer
+
 ---
 
-## 📫 Contact Me
+### Smart Image Organizer
+FastAPI-based image management system with CLIP-powered semantic tagging and batch processing.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kenny-wong-714548276/)
-- 💻 [Portfolio](https://yourwebsite.com)
-- 📧 kennywong082@gmail.com
+- Processed 10K+ images through scalable workflows
+- Implemented JWT authentication, caching, and rate limiting
+- Added CI/CD with GitHub Actions, Pytest, Black, Flake8, and MyPy
 
-## 🛠️ Tech Stack
+**Tech:** Python, FastAPI, PyTorch, Transformers, CI/CD
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+🔗 https://github.com/kenny082/Smart-Image-Organizer
+
+---
+
+### Hotel Booking Cancellation Prediction
+Machine learning pipeline for predicting hotel booking cancellations using 119K+ booking records.
+
+- Performed EDA, preprocessing, and feature engineering on large real-world datasets
+- Trained and evaluated Logistic Regression, Decision Tree, and Random Forest models
+- Analyzed booking trends across hotel type, room type, market segment, and cancellation behavior
+
+**Tech:** Python, Scikit-learn, NumPy, Pandas
+
+🔗 https://github.com/kenny082/Hotel_Bookings
+
+---
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/kenny-wong-714548276/
+- GitHub: https://github.com/kenny082
+- Email: kennywong082@gmail.com
