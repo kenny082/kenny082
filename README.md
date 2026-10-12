@@ -1,6 +1,6 @@
 # Hey, I'm Kenny!
 
-I'm a Computer Science and Applied Mathematics & Statistics student interested in systems programming, backend development, AI/ML, and software engineering.
+I'm a Computer Science and Applied Mathematics & Statistics student interested in systems programming, backend development, and AI/ML.
 
 Currently:
 - Incoming Software Engineer at IBM
